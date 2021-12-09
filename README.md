@@ -1,1 +1,1 @@
-# Student-Management-System
+# Demo Spring Boot Project
